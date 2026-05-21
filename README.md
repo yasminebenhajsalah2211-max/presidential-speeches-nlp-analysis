@@ -139,9 +139,6 @@ notebooks/analysis.ipynb
 
 Yasmine Ben Haj Salah
 
-Master 2 Artificial Intelligence & Robotics
-ENSEA Engineering School
-
 ---
 
 # 📄 License
